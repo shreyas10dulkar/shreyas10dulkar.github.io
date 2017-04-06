@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Shreyas Tendulkar
 
-You can use the [editor on GitHub](https://github.com/shreyas10dulkar/shreyas10dulkar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Summary:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A recovering engineer who is passionate about helping businesses use data to provide insights into their internal operations and the needs of their customers; then leverage this information to improve the design and appeal of their products and services while staying operationally efficient. 
+
 
 ### Markdown
 
