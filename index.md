@@ -1,4 +1,5 @@
--> ##Shreyas Tendulkar <-
+##Shreyas Tendulkar
+{: style="text-align: center;"}
 
 Summary:
 -----------------
