@@ -7,7 +7,7 @@ A recovering engineer who is passionate about helping businesses use data to pro
 
 Analytics Projects
 ---------------------
-1. PayActiv Customer Usage Analysis : https://shreyas10dulkar.github.io/PayActivProject
+1. [PayActiv Customer Usage Analysis](https://shreyas10dulkar.github.io/PayActivProject)
 Leading a team of business analysts consulting PayActiv Inc.; a SV Fin-Tech startup that provides an “income advance”
 service to low/medium income employees, thereby reducing their financial stress between paychecks. 
 The analytics goals include: 
@@ -22,7 +22,7 @@ customers (employers) that the service is beneficial to them in terms of improvi
 employees and in some cases reducing their turnover ratio and related expenses
 
 
-2. Zales Training Project :  https://shreyas10dulkar.github.io/ZalesTraining.md
+2. [Zales Training Project](https://shreyas10dulkar.github.io/ZalesTraining)
 Analyzed over 3 million training and transaction records collected over 4 years by Zale’s, to    provide insight into the impact and effectiveness of an in house training exercise. Using econometric analysis, constructed models that can help the business understand which parts of the training program were effective in increasing sales and reducing returns at their stores; so they can be managed better in the future.
 
 
