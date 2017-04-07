@@ -1,5 +1,5 @@
 ##Shreyas Tendulkar
-{: style="text-align: center;"}
+{: style="font-size: 80%; text-align: center;"}
 
 Summary:
 -----------------
