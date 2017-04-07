@@ -1,4 +1,4 @@
-<center> **Shreyas Tendulkar** </center>
+-> ##Shreyas Tendulkar <-
 
 Summary:
 -----------------
