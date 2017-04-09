@@ -1,5 +1,5 @@
 
-##Shreyas Tendulkar
+<center> </center> ##Shreyas Tendulkar
 
 
 Summary:
@@ -14,10 +14,10 @@ Leading a team of business analysts consulting PayActiv Inc.; a SV Fin-Tech star
 service to low/medium income employees, thereby reducing their financial stress between paychecks. 
 The analytics goals include: 
 
-- Coming up with metrics like employment engagement and productivity using econometric analysis on transaction
+ - Coming up with metrics like employment engagement and productivity using econometric analysis on transaction
 and survey data to show that there is a causal link with using PayActiv’s service. 
 
-- Using Behavioral Analytics on web/app
+ - Using Behavioral Analytics on web/app
 session data to find patterns that indicate improvement in the financial health of employees. Comparing this to similar
 metrics generated from users of “Payday Loans”. The product is still in its seed funding stages and we want to show
 customers (employers) that the service is beneficial to them in terms of improving the productivity and engagement of their
